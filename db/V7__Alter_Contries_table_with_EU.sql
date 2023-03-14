@@ -1,0 +1,1 @@
+ALTER TABLE Countries ADD IsEuContry bit NOT NULL;
