@@ -1,0 +1,1 @@
+ALTER TABLE Countries ADD IsEu bit NOT NULL;

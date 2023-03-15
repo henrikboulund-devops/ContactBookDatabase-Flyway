@@ -1,0 +1,1 @@
+CREATE TABLE Test (id INT NOT NULL)
